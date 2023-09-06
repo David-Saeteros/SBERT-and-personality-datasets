@@ -1,2 +1,6 @@
-# BERT-and-personality-datasets
-In this repository we will upload all the datasets we will use in the fine-tuning of two BERT models for the detection of personality traits.
+# SBERT-and-personality-datasets
+In this page, I have uploaded some of the preliminary results we have found in our study of personality traits with NLP tools.
+
+Recommendation: if you can't see the files correctly, download them.
+
+For questions or ideas, contact david.saeterosp@ub.edu
